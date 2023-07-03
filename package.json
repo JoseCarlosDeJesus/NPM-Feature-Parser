@@ -1,0 +1,26 @@
+{
+  "name": "feature-parser",
+  "version": "1.0.0",
+  "description": "a parser that parses the text of a Salt PlantUML diagram according to the functions of relationships between features of a feature model",
+  "main": "feature-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseCarlosDeJesus/NPM-Feature-Parser.git"
+  },
+  "keywords": [
+    "PlantUML",
+    "FeatureModel",
+    "Salt",
+    "Parser",
+    "features_relationship"
+  ],
+  "author": "José Carlos de Jesus Santana Júnior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseCarlosDeJesus/NPM-Feature-Parser/issues"
+  },
+  "homepage": "https://github.com/JoseCarlosDeJesus/NPM-Feature-Parser#readme"
+}
