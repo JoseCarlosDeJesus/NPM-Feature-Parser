@@ -1,6 +1,6 @@
 {
   "name": "feature-model-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a parser that parses the text of a Salt PlantUML diagram according to the functions of relationships between features of a feature model",
   "main": "feature-parser.js",
   "scripts": {
